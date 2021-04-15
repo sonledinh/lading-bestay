@@ -1,0 +1,88 @@
+@media (max-width: 1600px) {
+    body .container-fluid {
+        padding: 0 60px;
+        font-size: 16px;
+    }
+
+    .h-menu ul li {
+        padding-left: 30px;
+    }
+
+    .h-menu ul {
+        font-size: 15px;
+    }
+
+    .header-top .logo img {
+        max-height: 90px;
+    }
+
+    .slide-banner .caption h1 {
+        font-size: 40px;
+    }
+
+    .slide-banner .caption .desc {
+        font-size: 18px;
+        padding: 25px 0;
+    }
+
+    .btn-school a {
+        height: 50px;
+        font-size: 16px;
+    }
+
+    .list-srv .col-md-4 {
+        padding: 0 15px;
+    }
+
+    .list-srv .row {
+        margin: 0 -15px;
+    }
+
+    .item-srv {
+        height: 100%;
+    }
+
+    .info-srv {
+        padding: 25px;
+    }
+
+    .info-srv h3 a {
+        font-size: 20px;
+    }
+
+    .caption-about h2 {
+        font-size: 30px;
+    }
+
+    .box-nangluc .title h2 {
+        font-size: 30px;
+    }
+
+    .list-nangluc .info h3 {
+        font-size: 18px;
+    }
+
+    .list-nangluc .info {
+        min-height: 275px;
+    }
+
+    .box-admissions .title {
+        font-size: 30px;
+    }
+
+    .box-admissions h2 {
+        font-size: 20px;
+    }
+
+    .form-adm input[type=submit] {
+        font-size: 16px;
+    }
+
+    .item-new .info h3 a {
+        font-size: 18px;
+    }
+
+    .fter-top a {
+        font-size: 16px;
+    }
+}

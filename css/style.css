@@ -1,0 +1,468 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+@font-face {
+  font-family: "Google Sans";
+  src: url("../fonts/google-sans/GoogleSans-Black.woff2") format("woff2"), url("../fonts/google-sans/GoogleSans-Black.woff") format("woff");
+  font-weight: 900;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Google Sans";
+  src: url("../fonts/google-sans/GoogleSans-BlackItalic.woff2") format("woff2"), url("../fonts/google-sans/GoogleSans-BlackItalic.woff") format("woff");
+  font-weight: 900;
+  font-style: italic;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Google Sans";
+  src: url("../fonts/google-sans/GoogleSans-Light.woff2") format("woff2"), url("../fonts/google-sans/GoogleSans-Light.woff") format("woff");
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Google Sans";
+  src: url("../fonts/google-sans/GoogleSans-LightItalic.woff2") format("woff2"), url("../fonts/google-sans/GoogleSans-LightItalic.woff") format("woff");
+  font-weight: 300;
+  font-style: italic;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Google Sans";
+  src: url("../fonts/google-sans/GoogleSans-Italic.woff2") format("woff2"), url("../fonts/google-sans/GoogleSans-Italic.woff") format("woff");
+  font-weight: normal;
+  font-style: italic;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Google Sans";
+  src: url("../fonts/google-sans/GoogleSans-BoldItalic.woff2") format("woff2"), url("../fonts/google-sans/GoogleSans-BoldItalic.woff") format("woff");
+  font-weight: bold;
+  font-style: italic;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Google Sans";
+  src: url("../fonts/google-sans/GoogleSans-Bold.woff2") format("woff2"), url("../fonts/google-sans/GoogleSans-Bold.woff") format("woff");
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Google Sans";
+  src: url("../fonts/google-sans/GoogleSans-MediumItalic.woff2") format("woff2"), url("../fonts/google-sans/GoogleSans-MediumItalic.woff") format("woff");
+  font-weight: 500;
+  font-style: italic;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Google Sans";
+  src: url("../fonts/google-sans/GoogleSans-Regular.woff2") format("woff2"), url("../fonts/google-sans/GoogleSans-Regular.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Google Sans";
+  src: url("../fonts/google-sans/GoogleSans-Medium.woff2") format("woff2"), url("../fonts/google-sans/GoogleSans-Medium.woff") format("woff");
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Google Sans";
+  src: url("../fonts/google-sans/GoogleSans-ThinItalic.woff2") format("woff2"), url("../fonts/google-sans/GoogleSans-ThinItalic.woff") format("woff");
+  font-weight: 100;
+  font-style: italic;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Google Sans";
+  src: url("../fonts/google-sans/GoogleSans-Thin.woff2") format("woff2"), url("../fonts/google-sans/GoogleSans-Thin.woff") format("woff");
+  font-weight: 100;
+  font-style: normal;
+  font-display: swap;
+}
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  box-sizing: border-box;
+  padding: 0 !important;
+  font-size: 16px;
+  line-height: 1.6;
+  position: relative;
+  overflow-x: hidden;
+  font-family: "Google Sans";
+  font-weight: normal;
+  color: #000000;
+  background: url("../images/bg.svg") no-repeat center;
+  background-size: cover;
+}
+body h1, body h2, body h3, body h4, body h5, body h6, body p, body label, body ul, body li, body .card, body a {
+  text-decoration: none !important;
+  transition: 0.3s all;
+  margin-bottom: 0;
+  outline: none !important;
+}
+body .container {
+  max-width: 1200px;
+}
+body input {
+  padding: 0 15px;
+  outline: none;
+  color: #000000;
+}
+body input, body button {
+  transition: 0.3s all !important;
+}
+body p {
+  margin-bottom: 0;
+}
+body a {
+  color: #333333;
+}
+body .container-fluid {
+  padding: 0 125px;
+}
+
+.slick-slider {
+  margin-bottom: 0;
+}
+
+header {
+  border-bottom: 1px solid #fefefe17;
+}
+
+.header-top {
+  background: #270064;
+  padding: 14px 0;
+}
+.header-top a {
+  color: #fff;
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+}
+.header-top a img {
+  margin-right: 15px;
+}
+.header-top a span {
+  position: relative;
+  margin-left: 15px;
+  font-weight: bold;
+  font-size: 20px;
+  border-bottom: 1px solid transparent;
+  transition: 0.4s all !important;
+}
+.header-top a:hover span {
+  border-bottom: 1px solid #fff;
+}
+
+.header-menu {
+  padding: 26px 0;
+  background: #6A2EA4;
+}
+.header-menu ul {
+  list-style: none;
+  display: flex;
+  justify-content: center;
+}
+.header-menu ul li {
+  padding-right: 60px;
+}
+.header-menu ul li:last-child {
+  padding-right: 0;
+}
+.header-menu a {
+  color: #fff;
+  display: flex;
+  align-items: center;
+}
+
+footer {
+  padding: 26px 0;
+  color: #fff;
+}
+
+.footer-info ul {
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+}
+.footer-info ul li {
+  padding-right: 4px;
+}
+.footer-info ul li:last-child {
+  padding-right: 0;
+}
+
+main .container {
+  max-width: 1000px;
+}
+
+.box-banner {
+  padding-top: 70px;
+}
+
+.content-banner h1 {
+  font-size: 60px;
+  font-weight: 800;
+  color: #fff;
+  line-height: 1.4;
+  margin-bottom: 30px;
+}
+.content-banner h1 span {
+  color: #FFA936;
+}
+
+.cta-blog {
+  margin-bottom: 40px;
+}
+.cta-blog a {
+  display: inline-flex;
+  font-size: 18px;
+  color: #fff;
+  overflow: hidden;
+  border-radius: 30px;
+  height: 48px;
+  align-items: center;
+  background: #ffffff1a;
+  padding: 0 40px;
+}
+.cta-blog a span {
+  margin-left: 5px;
+  color: #FFA936;
+  margin-right: 20px;
+  position: relative;
+}
+.cta-blog a span:after {
+  content: "";
+  width: 92%;
+  height: 2px;
+  background: #FFA936;
+  position: absolute;
+  bottom: 4px;
+  left: 2px;
+}
+
+.cta-install {
+  margin-bottom: 60px;
+}
+.cta-install a {
+  display: inline-flex;
+  height: 60px;
+  align-items: center;
+  justify-content: center;
+  font-size: 18px;
+  font-weight: bold;
+  color: #fff;
+  background: #FFA936;
+  padding: 0 40px;
+  border-radius: 40px;
+  border: 2px solid #FE5202;
+}
+
+.tab-content {
+  display: none;
+}
+.tab-content.active {
+  display: block;
+}
+
+.tabs-list {
+  margin-bottom: 40px;
+}
+.tabs-list ul {
+  list-style: none;
+  display: flex;
+  align-items: center;
+  max-width: 570px;
+  border-radius: 50px;
+  padding: 10px;
+  margin: 0 auto;
+  background: #ffffff1a;
+  justify-content: space-between;
+}
+.tabs-list ul a {
+  font-size: 18px;
+  font-weight: 500;
+  display: flex;
+  width: 170px;
+  height: 44px;
+  align-items: center;
+  justify-content: center;
+  border-radius: 30px;
+  background: transparent;
+  color: #fff;
+}
+.tabs-list ul a.active, .tabs-list ul a:hover {
+  background: #FE5202;
+}
+
+.item-coin {
+  padding: 30px;
+  background: #ffffff1a;
+  border-radius: 20px;
+  border: 1px solid #fff;
+  color: #fff;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+  cursor: pointer;
+}
+.item-coin .name-coin {
+  flex: 0 0 30%;
+  font-size: 24px;
+  display: inline-flex;
+  align-items: center;
+  font-weight: bold;
+}
+.item-coin .name-coin img {
+  margin-right: 20px;
+}
+.item-coin .price-coin {
+  flex: 0 0 45%;
+  text-align: right;
+  padding-right: 30px;
+  font-size: 32px;
+  font-weight: bold;
+  color: #FFA936;
+  text-transform: uppercase;
+}
+.item-coin .info {
+  flex: 0 0 25%;
+  padding-left: 30px;
+  border-left: 1px solid #fff;
+  font-size: 14px;
+}
+.item-coin .info ul {
+  list-style: none;
+}
+.item-coin .info ul li {
+  margin-bottom: 8px;
+  display: flex;
+  justify-content: space-between;
+}
+.item-coin .info ul li:last-child {
+  margin-bottom: 0;
+}
+
+.box-item {
+  margin-bottom: 30px;
+}
+.box-item:last-child {
+  margin-bottom: 0;
+}
+
+.box-switch {
+  color: #fff;
+  background: #270064;
+  border-radius: 0 0 20px 20px;
+  width: 770px;
+  margin: 0 auto;
+  padding: 30px;
+  font-size: 18px;
+  display: none;
+}
+.box-switch .ul-switch {
+  list-style: none;
+}
+.box-switch .ul-switch li {
+  margin-bottom: 4px;
+}
+.box-switch .ul-switch li:last-child {
+  margin-bottom: 0;
+}
+.box-switch .ul-switch a {
+  color: #FFA936;
+  font-weight: 500;
+  border-bottom: 1px solid;
+}
+
+.box-pending {
+  display: none;
+}
+.box-pending h5 {
+  font-size: 18px;
+  font-weight: bold;
+  color: #FFA936;
+  margin-bottom: 15px;
+}
+.box-pending ul {
+  list-style: none;
+}
+.box-pending ul li {
+  margin-bottom: 6px;
+}
+.box-pending ul li:last-child {
+  margin-bottom: 0;
+}
+.box-pending ul a {
+  color: #fff;
+  font-size: 14px;
+  text-decoration: underline !important;
+}
+
+.pending-top p {
+  font-size: 14px;
+  margin-bottom: 10px;
+}
+.pending-top ul {
+  display: flex;
+  justify-content: space-between;
+  border-bottom: 1px solid #fff;
+  align-items: center;
+  padding-bottom: 20px;
+  margin-bottom: 25px;
+}
+.pending-top .name-pending {
+  font-size: 32px;
+  font-weight: 500;
+  display: inline-flex;
+  align-items: center;
+}
+.pending-top .name-pending img {
+  margin-right: 12px;
+}
+
+.cta-claim a {
+  font-size: 18px !important;
+  text-decoration: none !important;
+  font-weight: bold;
+  display: inline-flex;
+  height: 48px;
+  color: #fff;
+  align-items: center;
+  padding: 0 30px;
+  background: #FFA936;
+  border-radius: 40px;
+}
+
+.box-tab-bestay {
+  padding-bottom: 100px;
+}
+
+.box-faqs {
+  padding: 100px 0;
+  background: #fff;
+}
+.box-faqs .title h2 {
+  font-size: 40px;
+  color: #270064;
+  font-weight: 800;
+  margin-bottom: 40px;
+}
+
+.link-colls {
+  margin-top: 20px;
+}
+
+/*# sourceMappingURL=style.css.map */
