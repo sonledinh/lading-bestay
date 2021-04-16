@@ -27,7 +27,7 @@ body{
         outline: none !important;  
     }   
 	.container{ 
-		max-width: 1200px; 
+		max-width: 1200px;  
 	}
 	input {
 		padding: 0 15px;   
@@ -231,7 +231,7 @@ main {
     }
 }
 .box-pending {
-    display: none;  
+    // display: none;   
     h5 {
         font-size: 18px;
         font-weight: bold;

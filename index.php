@@ -53,9 +53,33 @@
 							<div class="box-switch">
 								<ul class="text-center ul-switch">
 									<li>Switch to BSC</li>
-									<li><a href="javascript:void(0)" class="cta-connect" data-tab="conn-1-1">Connect to MetaMask</a></li>
+									<li><a href="" class="cta-connect" target="_blank">Connect to MetaMask</a></li>
 								</ul>
-								<div class="box-pending" id="conn-1-1">
+							</div>
+						</div>
+						<div class="box-item">
+							<div class="item-coin">
+								<div class="name-coin"><img src="images/bit-1.png" class="img-fluid" alt=""><span>BEDEX</span></div>
+								<div class="price-coin">12.34 % apy</div>
+								<div class="info">
+									<ul>
+										<li>
+											<span>Earn:</span>
+											<span>BEDEX</span>
+										</li>
+										<li>
+											<span>Your balance:</span>
+											<span>0.00 $</span>
+										</li>
+										<li> 
+											<span>Total Deposit:</span>
+											<span>2.20M $</span>
+										</li>
+									</ul>
+								</div>
+							</div>
+							<div class="box-switch">
+								<div class="box-pending">
 									<div class="pending-top">
 										<p>Pending Reward:</p>
 										<ul>
@@ -95,7 +119,7 @@
 											<span>Your balance:</span>
 											<span>0.00 $</span>
 										</li>
-										<li>
+										<li> 
 											<span>Total Deposit:</span>
 											<span>2.20M $</span>
 										</li>
@@ -103,11 +127,7 @@
 								</div>
 							</div>
 							<div class="box-switch">
-								<ul class="text-center ul-switch">
-									<li>Switch to BSC</li>
-									<li><a href="javascript:void(0)" class="cta-connect" data-tab="conn-1-2">Connect to MetaMask</a></li>
-								</ul>
-								<div class="box-pending" id="conn-1-2">
+								<div class="box-pending">
 									<div class="pending-top">
 										<p>Pending Reward:</p>
 										<ul>
@@ -135,7 +155,7 @@
 						</div>
 						<div class="box-item">
 							<div class="item-coin">
-								<div class="name-coin"><img src="images/bit-1.png" class="img-fluid" alt=""><span>BUSD</span></div>
+								<div class="name-coin"><img src="images/bit-1.png" class="img-fluid" alt=""><span>BEDEX</span></div>
 								<div class="price-coin">12.34 % apy</div>
 								<div class="info">
 									<ul>
@@ -147,19 +167,15 @@
 											<span>Your balance:</span>
 											<span>0.00 $</span>
 										</li>
-										<li>
+										<li> 
 											<span>Total Deposit:</span>
 											<span>2.20M $</span>
 										</li>
-									</ul> 
+									</ul>
 								</div>
 							</div>
 							<div class="box-switch">
-								<ul class="text-center ul-switch">
-									<li>Switch to BSC</li>
-									<li><a href="javascript:void(0)" class="cta-connect" data-tab="conn-1-3">Connect to MetaMask</a></li>
-								</ul>
-								<div class="box-pending" id="conn-1-3">
+								<div class="box-pending">
 									<div class="pending-top">
 										<p>Pending Reward:</p>
 										<ul>
@@ -187,7 +203,7 @@
 						</div>
 						<div class="box-item">
 							<div class="item-coin">
-								<div class="name-coin"><img src="images/bit-1.png" class="img-fluid" alt=""><span>USDT</span></div>
+								<div class="name-coin"><img src="images/bit-1.png" class="img-fluid" alt=""><span>BEDEX</span></div>
 								<div class="price-coin">12.34 % apy</div>
 								<div class="info">
 									<ul>
@@ -199,7 +215,7 @@
 											<span>Your balance:</span>
 											<span>0.00 $</span>
 										</li>
-										<li>
+										<li> 
 											<span>Total Deposit:</span>
 											<span>2.20M $</span>
 										</li>
@@ -207,11 +223,7 @@
 								</div>
 							</div>
 							<div class="box-switch">
-								<ul class="text-center ul-switch">
-									<li>Switch to BSC</li>
-									<li><a href="javascript:void(0)" class="cta-connect" data-tab="conn-1-4">Connect to MetaMask</a></li>
-								</ul>
-								<div class="box-pending" id="conn-1-4">
+								<div class="box-pending">
 									<div class="pending-top">
 										<p>Pending Reward:</p>
 										<ul>
@@ -239,7 +251,7 @@
 						</div>
 						<div class="box-item">
 							<div class="item-coin">
-								<div class="name-coin"><img src="images/bit-1.png" class="img-fluid" alt=""><span>BUSD</span></div>
+								<div class="name-coin"><img src="images/bit-1.png" class="img-fluid" alt=""><span>BEDEX</span></div>
 								<div class="price-coin">12.34 % apy</div>
 								<div class="info">
 									<ul>
@@ -251,7 +263,7 @@
 											<span>Your balance:</span>
 											<span>0.00 $</span>
 										</li>
-										<li>
+										<li> 
 											<span>Total Deposit:</span>
 											<span>2.20M $</span>
 										</li>
@@ -259,11 +271,7 @@
 								</div>
 							</div>
 							<div class="box-switch">
-								<ul class="text-center ul-switch">
-									<li>Switch to BSC</li>
-									<li><a href="javascript:void(0)" class="cta-connect" data-tab="conn-1-5">Connect to MetaMask</a></li>
-								</ul>
-								<div class="box-pending" id="conn-1-5">
+								<div class="box-pending">
 									<div class="pending-top">
 										<p>Pending Reward:</p>
 										<ul>
@@ -291,7 +299,7 @@
 						</div>
 						<div class="box-item">
 							<div class="item-coin">
-								<div class="name-coin"><img src="images/bit-1.png" class="img-fluid" alt=""><span>BTCB</span></div>
+								<div class="name-coin"><img src="images/bit-1.png" class="img-fluid" alt=""><span>BEDEX</span></div>
 								<div class="price-coin">12.34 % apy</div>
 								<div class="info">
 									<ul>
@@ -303,7 +311,7 @@
 											<span>Your balance:</span>
 											<span>0.00 $</span>
 										</li>
-										<li>
+										<li> 
 											<span>Total Deposit:</span>
 											<span>2.20M $</span>
 										</li>
@@ -311,11 +319,7 @@
 								</div>
 							</div>
 							<div class="box-switch">
-								<ul class="text-center ul-switch">
-									<li>Switch to BSC</li>
-									<li><a href="javascript:void(0)" class="cta-connect" data-tab="conn-1-6">Connect to MetaMask</a></li>
-								</ul>
-								<div class="box-pending" id="conn-1-6">
+								<div class="box-pending">
 									<div class="pending-top">
 										<p>Pending Reward:</p>
 										<ul>
@@ -343,7 +347,7 @@
 						</div>
 						<div class="box-item">
 							<div class="item-coin">
-								<div class="name-coin"><img src="images/bit-1.png" class="img-fluid" alt=""><span>DAI</span></div>
+								<div class="name-coin"><img src="images/bit-1.png" class="img-fluid" alt=""><span>BEDEX</span></div>
 								<div class="price-coin">12.34 % apy</div>
 								<div class="info">
 									<ul>
@@ -355,7 +359,7 @@
 											<span>Your balance:</span>
 											<span>0.00 $</span>
 										</li>
-										<li>
+										<li> 
 											<span>Total Deposit:</span>
 											<span>2.20M $</span>
 										</li>
@@ -363,11 +367,7 @@
 								</div>
 							</div>
 							<div class="box-switch">
-								<ul class="text-center ul-switch">
-									<li>Switch to BSC</li>
-									<li><a href="javascript:void(0)" class="cta-connect" data-tab="conn-1-7">Connect to MetaMask</a></li>
-								</ul>
-								<div class="box-pending" id="conn-1-7">
+								<div class="box-pending">
 									<div class="pending-top">
 										<p>Pending Reward:</p>
 										<ul>
@@ -399,63 +399,11 @@
 					<div class="list-coin">
 						<div class="box-item">
 							<div class="item-coin">
-								<div class="name-coin"><img src="images/bit-1.png" class="img-fluid" alt=""><span>BUSD</span></div>
-								<div class="price-coin">12.34 % apy</div>
-								<div class="info">
-									<ul>
-										<li>
-											<span>Earn:</span>
-											<span>BEDEX</span>
-										</li>
-										<li>
-											<span>Your balance:</span>
-											<span>0.00 $</span>
-										</li>
-										<li>
-											<span>Total Deposit:</span>
-											<span>2.20M $</span>
-										</li>
-									</ul> 
-								</div>
-							</div>
-							<div class="box-switch">
-								<ul class="text-center ul-switch">
-									<li>Switch to BSC</li>
-									<li><a href="javascript:void(0)" class="cta-connect" data-tab="conn-2-1">Connect to MetaMask</a></li>
-								</ul>
-								<div class="box-pending" id="conn-2-1">
-									<div class="pending-top">
-										<p>Pending Reward:</p>
-										<ul>
-											<li>
-												<div class="name-pending">
-													<img src="images/pending-1.png" class="img-fluid" alt="">
-													<span>0 BEDEX</span>
-												</div>
-											</li>
-											<li>
-												<div class="cta-claim"><a href="" target="_blank" style="text-decoration: none !important;">Claim Profit</a></div>
-											</li>
-										</ul>
-									</div>
-									<div class="pending-bott">
-										<h5>Before Farming:</h5>
-										<ul>
-											<li><a href="">Buy BEDEX and BNB tokens 50/50</a></li>
-											<li><a href="">Add Liquidity and Get BEDEX-BNB-LP tokens on Beswap.io</a></li>
-											<li><a href="">Supply BEDEX-BNB-LP tokens on Pancakeswap.finance</a></li>
-										</ul>
-									</div>
-								</div>
-							</div>
-						</div>
-						<div class="box-item">
-							<div class="item-coin">
 								<div class="name-coin"><img src="images/bit-1.png" class="img-fluid" alt=""><span>BEDEX-BUSD</span></div>
 								<div class="price-coin">12.34 % apy</div>
 								<div class="info">
 									<ul>
-										<li> 
+										<li>
 											<span>Earn:</span>
 											<span>BEDEX</span>
 										</li>
@@ -473,9 +421,33 @@
 							<div class="box-switch">
 								<ul class="text-center ul-switch">
 									<li>Switch to BSC</li>
-									<li><a href="javascript:void(0)" class="cta-connect" data-tab="conn-2-2">Connect to MetaMask</a></li>
+									<li><a href="" class="cta-connect" target="_blank">Connect to MetaMask</a></li>
 								</ul>
-								<div class="box-pending" id="conn-2-2">
+							</div>
+						</div>
+						<div class="box-item">
+							<div class="item-coin">
+								<div class="name-coin"><img src="images/bit-1.png" class="img-fluid" alt=""><span>BEDEX</span></div>
+								<div class="price-coin">12.34 % apy</div>
+								<div class="info">
+									<ul>
+										<li>
+											<span>Earn:</span>
+											<span>BEDEX</span>
+										</li>
+										<li>
+											<span>Your balance:</span>
+											<span>0.00 $</span>
+										</li>
+										<li> 
+											<span>Total Deposit:</span>
+											<span>2.20M $</span>
+										</li>
+									</ul>
+								</div>
+							</div>
+							<div class="box-switch">
+								<div class="box-pending">
 									<div class="pending-top">
 										<p>Pending Reward:</p>
 										<ul>
@@ -515,7 +487,7 @@
 											<span>Your balance:</span>
 											<span>0.00 $</span>
 										</li>
-										<li>
+										<li> 
 											<span>Total Deposit:</span>
 											<span>2.20M $</span>
 										</li>
@@ -523,11 +495,7 @@
 								</div>
 							</div>
 							<div class="box-switch">
-								<ul class="text-center ul-switch">
-									<li>Switch to BSC</li>
-									<li><a href="javascript:void(0)" class="cta-connect" data-tab="conn-2-3">Connect to MetaMask</a></li>
-								</ul>
-								<div class="box-pending" id="conn-2-3">
+								<div class="box-pending">
 									<div class="pending-top">
 										<p>Pending Reward:</p>
 										<ul>
@@ -555,7 +523,7 @@
 						</div>
 						<div class="box-item">
 							<div class="item-coin">
-								<div class="name-coin"><img src="images/bit-1.png" class="img-fluid" alt=""><span>BUSD</span></div>
+								<div class="name-coin"><img src="images/bit-1.png" class="img-fluid" alt=""><span>BEDEX</span></div>
 								<div class="price-coin">12.34 % apy</div>
 								<div class="info">
 									<ul>
@@ -567,7 +535,7 @@
 											<span>Your balance:</span>
 											<span>0.00 $</span>
 										</li>
-										<li>
+										<li> 
 											<span>Total Deposit:</span>
 											<span>2.20M $</span>
 										</li>
@@ -575,11 +543,7 @@
 								</div>
 							</div>
 							<div class="box-switch">
-								<ul class="text-center ul-switch">
-									<li>Switch to BSC</li>
-									<li><a href="javascript:void(0)" class="cta-connect" data-tab="conn-2-4">Connect to MetaMask</a></li>
-								</ul>
-								<div class="box-pending" id="conn-2-4">
+								<div class="box-pending">
 									<div class="pending-top">
 										<p>Pending Reward:</p>
 										<ul>
@@ -607,7 +571,7 @@
 						</div>
 						<div class="box-item">
 							<div class="item-coin">
-								<div class="name-coin"><img src="images/bit-1.png" class="img-fluid" alt=""><span>USDT</span></div>
+								<div class="name-coin"><img src="images/bit-1.png" class="img-fluid" alt=""><span>BEDEX</span></div>
 								<div class="price-coin">12.34 % apy</div>
 								<div class="info">
 									<ul>
@@ -619,7 +583,7 @@
 											<span>Your balance:</span>
 											<span>0.00 $</span>
 										</li>
-										<li>
+										<li> 
 											<span>Total Deposit:</span>
 											<span>2.20M $</span>
 										</li>
@@ -627,11 +591,7 @@
 								</div>
 							</div>
 							<div class="box-switch">
-								<ul class="text-center ul-switch">
-									<li>Switch to BSC</li>
-									<li><a href="javascript:void(0)" class="cta-connect" data-tab="conn-2-5">Connect to MetaMask</a></li>
-								</ul>
-								<div class="box-pending" id="conn-2-5">
+								<div class="box-pending">
 									<div class="pending-top">
 										<p>Pending Reward:</p>
 										<ul>
@@ -659,7 +619,7 @@
 						</div>
 						<div class="box-item">
 							<div class="item-coin">
-								<div class="name-coin"><img src="images/bit-1.png" class="img-fluid" alt=""><span>DAI</span></div>
+								<div class="name-coin"><img src="images/bit-1.png" class="img-fluid" alt=""><span>BEDEX</span></div>
 								<div class="price-coin">12.34 % apy</div>
 								<div class="info">
 									<ul>
@@ -671,7 +631,7 @@
 											<span>Your balance:</span>
 											<span>0.00 $</span>
 										</li>
-										<li>
+										<li> 
 											<span>Total Deposit:</span>
 											<span>2.20M $</span>
 										</li>
@@ -679,11 +639,7 @@
 								</div>
 							</div>
 							<div class="box-switch">
-								<ul class="text-center ul-switch">
-									<li>Switch to BSC</li>
-									<li><a href="javascript:void(0)" class="cta-connect" data-tab="conn-2-6">Connect to MetaMask</a></li>
-								</ul>
-								<div class="box-pending" id="conn-2-6">
+								<div class="box-pending">
 									<div class="pending-top">
 										<p>Pending Reward:</p>
 										<ul>
@@ -711,7 +667,7 @@
 						</div>
 						<div class="box-item">
 							<div class="item-coin">
-								<div class="name-coin"><img src="images/bit-1.png" class="img-fluid" alt=""><span>BTCB</span></div>
+								<div class="name-coin"><img src="images/bit-1.png" class="img-fluid" alt=""><span>BEDEX</span></div>
 								<div class="price-coin">12.34 % apy</div>
 								<div class="info">
 									<ul>
@@ -723,7 +679,7 @@
 											<span>Your balance:</span>
 											<span>0.00 $</span>
 										</li>
-										<li>
+										<li> 
 											<span>Total Deposit:</span>
 											<span>2.20M $</span>
 										</li>
@@ -731,11 +687,7 @@
 								</div>
 							</div>
 							<div class="box-switch">
-								<ul class="text-center ul-switch">
-									<li>Switch to BSC</li>
-									<li><a href="javascript:void(0)" class="cta-connect" data-tab="conn-2-7">Connect to MetaMask</a></li>
-								</ul>
-								<div class="box-pending" id="conn-2-7">
+								<div class="box-pending">
 									<div class="pending-top">
 										<p>Pending Reward:</p>
 										<ul>
@@ -761,64 +713,60 @@
 								</div>
 							</div>
 						</div>
-					</div> 
+						<div class="box-item">
+							<div class="item-coin">
+								<div class="name-coin"><img src="images/bit-1.png" class="img-fluid" alt=""><span>BEDEX</span></div>
+								<div class="price-coin">12.34 % apy</div>
+								<div class="info">
+									<ul>
+										<li>
+											<span>Earn:</span>
+											<span>BEDEX</span>
+										</li>
+										<li>
+											<span>Your balance:</span>
+											<span>0.00 $</span>
+										</li>
+										<li> 
+											<span>Total Deposit:</span>
+											<span>2.20M $</span>
+										</li>
+									</ul>
+								</div>
+							</div>
+							<div class="box-switch">
+								<div class="box-pending">
+									<div class="pending-top">
+										<p>Pending Reward:</p>
+										<ul>
+											<li>
+												<div class="name-pending">
+													<img src="images/pending-1.png" class="img-fluid" alt="">
+													<span>0 BEDEX</span>
+												</div>
+											</li>
+											<li>
+												<div class="cta-claim"><a href="" target="_blank" style="text-decoration: none !important;">Claim Profit</a></div>
+											</li>
+										</ul>
+									</div>
+									<div class="pending-bott">
+										<h5>Before Farming:</h5>
+										<ul>
+											<li><a href="">Buy BEDEX and BNB tokens 50/50</a></li>
+											<li><a href="">Add Liquidity and Get BEDEX-BNB-LP tokens on Beswap.io</a></li>
+											<li><a href="">Supply BEDEX-BNB-LP tokens on Pancakeswap.finance</a></li>
+										</ul>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
 				</div>
 				<div class="tab-content" id="tab-3">
 					<div class="list-coin">
 						<div class="box-item">
 							<div class="item-coin">
-								<div class="name-coin"><img src="images/bit-1.png" class="img-fluid" alt=""><span>BEDEX</span></div>
-								<div class="price-coin">12.34 % apy</div>
-								<div class="info">
-									<ul>
-										<li>
-											<span>Earn:</span>
-											<span>BEDEX</span>
-										</li>
-										<li>
-											<span>Your balance:</span>
-											<span>0.00 $</span>
-										</li>
-										<li>
-											<span>Total Deposit:</span>
-											<span>2.20M $</span>
-										</li>
-									</ul>
-								</div>
-							</div>
-							<div class="box-switch">
-								<ul class="text-center ul-switch">
-									<li>Switch to BSC</li>
-									<li><a href="javascript:void(0)" class="cta-connect" data-tab="conn-3-1">Connect to MetaMask</a></li>
-								</ul>
-								<div class="box-pending" id="conn-3-1">
-									<div class="pending-top">
-										<p>Pending Reward:</p>
-										<ul>
-											<li>
-												<div class="name-pending">
-													<img src="images/pending-1.png" class="img-fluid" alt="">
-													<span>0 BEDEX</span>
-												</div>
-											</li>
-											<li>
-												<div class="cta-claim"><a href="" target="_blank" style="text-decoration: none !important;">Claim Profit</a></div>
-											</li>
-										</ul>
-									</div>
-									<div class="pending-bott">
-										<h5>Before Farming:</h5>
-										<ul>
-											<li><a href="">Buy BEDEX and BNB tokens 50/50</a></li>
-											<li><a href="">Add Liquidity and Get BEDEX-BNB-LP tokens on Beswap.io</a></li>
-											<li><a href="">Supply BEDEX-BNB-LP tokens on Pancakeswap.finance</a></li>
-										</ul>
-									</div>
-								</div>
-							</div>
-						</div>
-						<div class="box-item">
-							<div class="item-coin">
 								<div class="name-coin"><img src="images/bit-1.png" class="img-fluid" alt=""><span>BEDEX-BUSD</span></div>
 								<div class="price-coin">12.34 % apy</div>
 								<div class="info">
@@ -841,37 +789,13 @@
 							<div class="box-switch">
 								<ul class="text-center ul-switch">
 									<li>Switch to BSC</li>
-									<li><a href="javascript:void(0)" class="cta-connect" data-tab="conn-3-2">Connect to MetaMask</a></li>
+									<li><a href="" class="cta-connect" target="_blank">Connect to MetaMask</a></li>
 								</ul>
-								<div class="box-pending" id="conn-3-2">
-									<div class="pending-top">
-										<p>Pending Reward:</p>
-										<ul>
-											<li>
-												<div class="name-pending">
-													<img src="images/pending-1.png" class="img-fluid" alt="">
-													<span>0 BEDEX</span>
-												</div>
-											</li>
-											<li>
-												<div class="cta-claim"><a href="" target="_blank" style="text-decoration: none !important;">Claim Profit</a></div>
-											</li>
-										</ul>
-									</div>
-									<div class="pending-bott">
-										<h5>Before Farming:</h5>
-										<ul>
-											<li><a href="">Buy BEDEX and BNB tokens 50/50</a></li>
-											<li><a href="">Add Liquidity and Get BEDEX-BNB-LP tokens on Beswap.io</a></li>
-											<li><a href="">Supply BEDEX-BNB-LP tokens on Pancakeswap.finance</a></li>
-										</ul>
-									</div>
-								</div>
 							</div>
 						</div>
 						<div class="box-item">
 							<div class="item-coin">
-								<div class="name-coin"><img src="images/bit-1.png" class="img-fluid" alt=""><span>USDT</span></div>
+								<div class="name-coin"><img src="images/bit-1.png" class="img-fluid" alt=""><span>BEDEX</span></div>
 								<div class="price-coin">12.34 % apy</div>
 								<div class="info">
 									<ul>
@@ -883,7 +807,7 @@
 											<span>Your balance:</span>
 											<span>0.00 $</span>
 										</li>
-										<li>
+										<li> 
 											<span>Total Deposit:</span>
 											<span>2.20M $</span>
 										</li>
@@ -891,11 +815,7 @@
 								</div>
 							</div>
 							<div class="box-switch">
-								<ul class="text-center ul-switch">
-									<li>Switch to BSC</li>
-									<li><a href="javascript:void(0)" class="cta-connect" data-tab="conn-3-3">Connect to MetaMask</a></li>
-								</ul>
-								<div class="box-pending" id="conn-3-3">
+								<div class="box-pending">
 									<div class="pending-top">
 										<p>Pending Reward:</p>
 										<ul>
@@ -923,7 +843,7 @@
 						</div>
 						<div class="box-item">
 							<div class="item-coin">
-								<div class="name-coin"><img src="images/bit-1.png" class="img-fluid" alt=""><span>BUSD</span></div>
+								<div class="name-coin"><img src="images/bit-1.png" class="img-fluid" alt=""><span>BEDEX</span></div>
 								<div class="price-coin">12.34 % apy</div>
 								<div class="info">
 									<ul>
@@ -935,59 +855,7 @@
 											<span>Your balance:</span>
 											<span>0.00 $</span>
 										</li>
-										<li>
-											<span>Total Deposit:</span>
-											<span>2.20M $</span>
-										</li>
-									</ul> 
-								</div>
-							</div>
-							<div class="box-switch">
-								<ul class="text-center ul-switch">
-									<li>Switch to BSC</li>
-									<li><a href="javascript:void(0)" class="cta-connect" data-tab="conn-3-4">Connect to MetaMask</a></li>
-								</ul>
-								<div class="box-pending" id="conn-3-4">
-									<div class="pending-top">
-										<p>Pending Reward:</p>
-										<ul>
-											<li>
-												<div class="name-pending">
-													<img src="images/pending-1.png" class="img-fluid" alt="">
-													<span>0 BEDEX</span>
-												</div>
-											</li>
-											<li>
-												<div class="cta-claim"><a href="" target="_blank" style="text-decoration: none !important;">Claim Profit</a></div>
-											</li>
-										</ul>
-									</div>
-									<div class="pending-bott">
-										<h5>Before Farming:</h5>
-										<ul>
-											<li><a href="">Buy BEDEX and BNB tokens 50/50</a></li>
-											<li><a href="">Add Liquidity and Get BEDEX-BNB-LP tokens on Beswap.io</a></li>
-											<li><a href="">Supply BEDEX-BNB-LP tokens on Pancakeswap.finance</a></li>
-										</ul>
-									</div>
-								</div>
-							</div>
-						</div>
-						<div class="box-item">
-							<div class="item-coin">
-								<div class="name-coin"><img src="images/bit-1.png" class="img-fluid" alt=""><span>BTCB</span></div>
-								<div class="price-coin">12.34 % apy</div>
-								<div class="info">
-									<ul>
-										<li>
-											<span>Earn:</span>
-											<span>BEDEX</span>
-										</li>
-										<li>
-											<span>Your balance:</span>
-											<span>0.00 $</span>
-										</li>
-										<li>
+										<li> 
 											<span>Total Deposit:</span>
 											<span>2.20M $</span>
 										</li>
@@ -995,11 +863,7 @@
 								</div>
 							</div>
 							<div class="box-switch">
-								<ul class="text-center ul-switch">
-									<li>Switch to BSC</li>
-									<li><a href="javascript:void(0)" class="cta-connect" data-tab="conn-3-5">Connect to MetaMask</a></li>
-								</ul>
-								<div class="box-pending" id="conn-3-5">
+								<div class="box-pending">
 									<div class="pending-top">
 										<p>Pending Reward:</p>
 										<ul>
@@ -1027,7 +891,7 @@
 						</div>
 						<div class="box-item">
 							<div class="item-coin">
-								<div class="name-coin"><img src="images/bit-1.png" class="img-fluid" alt=""><span>BUSD</span></div>
+								<div class="name-coin"><img src="images/bit-1.png" class="img-fluid" alt=""><span>BEDEX</span></div>
 								<div class="price-coin">12.34 % apy</div>
 								<div class="info">
 									<ul>
@@ -1039,7 +903,7 @@
 											<span>Your balance:</span>
 											<span>0.00 $</span>
 										</li>
-										<li>
+										<li> 
 											<span>Total Deposit:</span>
 											<span>2.20M $</span>
 										</li>
@@ -1047,11 +911,7 @@
 								</div>
 							</div>
 							<div class="box-switch">
-								<ul class="text-center ul-switch">
-									<li>Switch to BSC</li>
-									<li><a href="javascript:void(0)" class="cta-connect" data-tab="conn-3-6">Connect to MetaMask</a></li>
-								</ul>
-								<div class="box-pending" id="conn-3-6">
+								<div class="box-pending">
 									<div class="pending-top">
 										<p>Pending Reward:</p>
 										<ul>
@@ -1079,7 +939,7 @@
 						</div>
 						<div class="box-item">
 							<div class="item-coin">
-								<div class="name-coin"><img src="images/bit-1.png" class="img-fluid" alt=""><span>DAI</span></div>
+								<div class="name-coin"><img src="images/bit-1.png" class="img-fluid" alt=""><span>BEDEX</span></div>
 								<div class="price-coin">12.34 % apy</div>
 								<div class="info">
 									<ul>
@@ -1091,7 +951,7 @@
 											<span>Your balance:</span>
 											<span>0.00 $</span>
 										</li>
-										<li>
+										<li> 
 											<span>Total Deposit:</span>
 											<span>2.20M $</span>
 										</li>
@@ -1099,11 +959,7 @@
 								</div>
 							</div>
 							<div class="box-switch">
-								<ul class="text-center ul-switch">
-									<li>Switch to BSC</li>
-									<li><a href="javascript:void(0)" class="cta-connect" data-tab="conn-3-7">Connect to MetaMask</a></li>
-								</ul>
-								<div class="box-pending" id="conn-3-7">
+								<div class="box-pending">
 									<div class="pending-top">
 										<p>Pending Reward:</p>
 										<ul>
@@ -1129,7 +985,151 @@
 								</div>
 							</div>
 						</div>
-					</div> 
+						<div class="box-item">
+							<div class="item-coin">
+								<div class="name-coin"><img src="images/bit-1.png" class="img-fluid" alt=""><span>BEDEX</span></div>
+								<div class="price-coin">12.34 % apy</div>
+								<div class="info">
+									<ul>
+										<li>
+											<span>Earn:</span>
+											<span>BEDEX</span>
+										</li>
+										<li>
+											<span>Your balance:</span>
+											<span>0.00 $</span>
+										</li>
+										<li> 
+											<span>Total Deposit:</span>
+											<span>2.20M $</span>
+										</li>
+									</ul>
+								</div>
+							</div>
+							<div class="box-switch">
+								<div class="box-pending">
+									<div class="pending-top">
+										<p>Pending Reward:</p>
+										<ul>
+											<li>
+												<div class="name-pending">
+													<img src="images/pending-1.png" class="img-fluid" alt="">
+													<span>0 BEDEX</span>
+												</div>
+											</li>
+											<li>
+												<div class="cta-claim"><a href="" target="_blank" style="text-decoration: none !important;">Claim Profit</a></div>
+											</li>
+										</ul>
+									</div>
+									<div class="pending-bott">
+										<h5>Before Farming:</h5>
+										<ul>
+											<li><a href="">Buy BEDEX and BNB tokens 50/50</a></li>
+											<li><a href="">Add Liquidity and Get BEDEX-BNB-LP tokens on Beswap.io</a></li>
+											<li><a href="">Supply BEDEX-BNB-LP tokens on Pancakeswap.finance</a></li>
+										</ul>
+									</div>
+								</div>
+							</div>
+						</div>
+						<div class="box-item">
+							<div class="item-coin">
+								<div class="name-coin"><img src="images/bit-1.png" class="img-fluid" alt=""><span>BEDEX</span></div>
+								<div class="price-coin">12.34 % apy</div>
+								<div class="info">
+									<ul>
+										<li>
+											<span>Earn:</span>
+											<span>BEDEX</span>
+										</li>
+										<li>
+											<span>Your balance:</span>
+											<span>0.00 $</span>
+										</li>
+										<li> 
+											<span>Total Deposit:</span>
+											<span>2.20M $</span>
+										</li>
+									</ul>
+								</div>
+							</div>
+							<div class="box-switch">
+								<div class="box-pending">
+									<div class="pending-top">
+										<p>Pending Reward:</p>
+										<ul>
+											<li>
+												<div class="name-pending">
+													<img src="images/pending-1.png" class="img-fluid" alt="">
+													<span>0 BEDEX</span>
+												</div>
+											</li>
+											<li>
+												<div class="cta-claim"><a href="" target="_blank" style="text-decoration: none !important;">Claim Profit</a></div>
+											</li>
+										</ul>
+									</div>
+									<div class="pending-bott">
+										<h5>Before Farming:</h5>
+										<ul>
+											<li><a href="">Buy BEDEX and BNB tokens 50/50</a></li>
+											<li><a href="">Add Liquidity and Get BEDEX-BNB-LP tokens on Beswap.io</a></li>
+											<li><a href="">Supply BEDEX-BNB-LP tokens on Pancakeswap.finance</a></li>
+										</ul>
+									</div>
+								</div>
+							</div>
+						</div>
+						<div class="box-item">
+							<div class="item-coin">
+								<div class="name-coin"><img src="images/bit-1.png" class="img-fluid" alt=""><span>BEDEX</span></div>
+								<div class="price-coin">12.34 % apy</div>
+								<div class="info">
+									<ul>
+										<li>
+											<span>Earn:</span>
+											<span>BEDEX</span>
+										</li>
+										<li>
+											<span>Your balance:</span>
+											<span>0.00 $</span>
+										</li>
+										<li> 
+											<span>Total Deposit:</span>
+											<span>2.20M $</span>
+										</li>
+									</ul>
+								</div>
+							</div>
+							<div class="box-switch">
+								<div class="box-pending">
+									<div class="pending-top">
+										<p>Pending Reward:</p>
+										<ul>
+											<li>
+												<div class="name-pending">
+													<img src="images/pending-1.png" class="img-fluid" alt="">
+													<span>0 BEDEX</span>
+												</div>
+											</li>
+											<li>
+												<div class="cta-claim"><a href="" target="_blank" style="text-decoration: none !important;">Claim Profit</a></div>
+											</li>
+										</ul>
+									</div>
+									<div class="pending-bott">
+										<h5>Before Farming:</h5>
+										<ul>
+											<li><a href="">Buy BEDEX and BNB tokens 50/50</a></li>
+											<li><a href="">Add Liquidity and Get BEDEX-BNB-LP tokens on Beswap.io</a></li>
+											<li><a href="">Supply BEDEX-BNB-LP tokens on Pancakeswap.finance</a></li>
+										</ul>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
 				</div>
 			</div>
 		</div>

@@ -387,9 +387,6 @@ main .container {
   border-bottom: 1px solid;
 }
 
-.box-pending {
-  display: none;
-}
 .box-pending h5 {
   font-size: 18px;
   font-weight: bold;

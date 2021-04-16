@@ -18,14 +18,9 @@ $(document).ready(function(){
     });
 
 
-    $('.cta-connect').click(function(){
-        var tab_id = $(this).attr('data-tab');
-
-        // $('.tabs-list ul a').removeClass('active'); 
-        // $('.tab-content').removeClass('active');
-
-        // $(this).addClass('active'); 
-        $("#"+tab_id).slideDown(); 
-    })
+    // $('.cta-connect').click(function(){
+    //     var tab_id = $(this).attr('data-tab');
+    //     $("#"+tab_id).slideDown(); 
+    // })
 
 })
